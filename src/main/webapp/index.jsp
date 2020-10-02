@@ -23,7 +23,7 @@
 				</ul>
 			</nav>
 			<h2>Home</h2>
-
+<!--verandering-->
 		</header>
 		<c:choose>
 			<c:when test="${not empty requestcookie}">
